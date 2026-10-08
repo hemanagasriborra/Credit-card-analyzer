@@ -1,0 +1,6 @@
+pandas>=2.0.0
+pdfplumber>=0.10.0
+rapidfuzz>=3.5.0
+matplotlib>=3.7.0
+streamlit>=1.28.0
+python-dateutil>=2.8.2

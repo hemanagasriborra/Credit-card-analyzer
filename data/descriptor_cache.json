@@ -1,0 +1,182 @@
+{
+  "SWIGGY*ORDER 88213": {
+    "merchant_name": "Swiggy",
+    "category": "Food Delivery",
+    "confidence": 100
+  },
+  "NETFLIX.COM": {
+    "merchant_name": "Netflix",
+    "category": "Subscriptions",
+    "confidence": 100
+  },
+  "SQ *BLUE BOTTLE COF SF US": {
+    "merchant_name": "Blue Bottle Coffee",
+    "category": "Dining",
+    "confidence": 100
+  },
+  "AMZN MKTP IN*2K4TB9": {
+    "merchant_name": "Amazon",
+    "category": "Shopping",
+    "confidence": 100
+  },
+  "UBER *TRIP HELP.UBER.COM": {
+    "merchant_name": "Uber",
+    "category": "Transport",
+    "confidence": 100
+  },
+  "BIGBASKET ONLINE 4471": {
+    "merchant_name": "BigBasket",
+    "category": "Groceries",
+    "confidence": 100
+  },
+  "SPOTIFY INDIA": {
+    "merchant_name": "Spotify",
+    "category": "Subscriptions",
+    "confidence": 100
+  },
+  "TST*DOMINOS 0234 BLR": {
+    "merchant_name": "Domino's Pizza",
+    "category": "Dining",
+    "confidence": 100
+  },
+  "APPLE.COM/BILL": {
+    "merchant_name": "Apple",
+    "category": "Subscriptions",
+    "confidence": 100
+  },
+  "UNKNOWN MERCHANT XYZ 991": {
+    "merchant_name": "Unknown Merchant",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "SWIGGY*ORDER 90144": {
+    "merchant_name": "Swiggy",
+    "category": "Food Delivery",
+    "confidence": 100
+  },
+  "SQ *BLUE BOTTLE COF": {
+    "merchant_name": "Blue Bottle Coffee",
+    "category": "Dining",
+    "confidence": 100
+  },
+  "SWIGGY*ORDER 74521": {
+    "merchant_name": "Swiggy",
+    "category": "Food Delivery",
+    "confidence": 100
+  },
+  "ZOMATO ONLINE ORDER": {
+    "merchant_name": "Zomato",
+    "category": "Food Delivery",
+    "confidence": 100
+  },
+  "AMZN MKTP IN*3F8KL2": {
+    "merchant_name": "Amazon",
+    "category": "Shopping",
+    "confidence": 100
+  },
+  "AIRTEL PAYMENTS BANK": {
+    "merchant_name": "Airtel",
+    "category": "Utilities",
+    "confidence": 100
+  },
+  "LIC PREMIUM PAYMENT": {
+    "merchant_name": "LIC",
+    "category": "Insurance",
+    "confidence": 100
+  },
+  "BOOKING.COM RESERVATN NL": {
+    "merchant_name": "Booking.Com Reservatn",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "PHARMEASY ORDER 55123": {
+    "merchant_name": "PharmEasy",
+    "category": "Health",
+    "confidence": 100
+  },
+  "MYNTRA DESIGNS PVT": {
+    "merchant_name": "Myntra",
+    "category": "Shopping",
+    "confidence": 100
+  },
+  "IRCTC WEB TICKET": {
+    "merchant_name": "IRCTC",
+    "category": "Transport",
+    "confidence": 100
+  },
+  "STARBUCKS COFFEE IND": {
+    "merchant_name": "Starbucks",
+    "category": "Dining",
+    "confidence": 100
+  },
+  "PVR CINEMAS PMT": {
+    "merchant_name": "Pvr Cinemas",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "GYM MEMBERSHIP CULT.FIT": {
+    "merchant_name": "Gym/Fitness",
+    "category": "Health & Fitness",
+    "confidence": 100
+  },
+  "GOOGLE *YOUTUBEPREMIUM": {
+    "merchant_name": "Google",
+    "category": "Subscriptions",
+    "confidence": 100
+  },
+  "DMART READY ONLINE": {
+    "merchant_name": "DMart",
+    "category": "Groceries",
+    "confidence": 100
+  },
+  "REFUND - MYNTRA RETURN": {
+    "merchant_name": "Myntra",
+    "category": "Shopping",
+    "confidence": 100
+  },
+  "PAYMENT RECEIVED - THANK YOU": {
+    "merchant_name": "Payment Received - Thank",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "UNKNOWN VENDOR CODE 4471X": {
+    "merchant_name": "Unknown Vendor Code 4471X",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "POS 991823 HYDERABAD": {
+    "merchant_name": "991823 Hyderabad",
+    "category": "Uncategorized",
+    "confidence": 0
+  },
+  "PAYTM*RECHARGE": {
+    "merchant_name": "Paytm",
+    "category": "Wallet/Transfer",
+    "confidence": 100
+  },
+  "MAKEMYTRIP FLIGHT BKG": {
+    "merchant_name": "MakeMyTrip",
+    "category": "Travel",
+    "confidence": 100
+  },
+  "AMAZON PRIME MEMBERSHIP": {
+    "merchant_name": "Amazon",
+    "category": "Shopping",
+    "confidence": 100
+  },
+  "PHARMEASY ORDER 61234": {
+    "merchant_name": "PharmEasy",
+    "category": "Health",
+    "confidence": 100
+  },
+  "STARBUCKS STORE 1243": {
+    "merchant_name": "Starbucks",
+    "category": "Dining",
+    "confidence": 100
+  },
+  "MCDONALD'S F10322": {
+    "merchant_name": "McDonald's",
+    "category": "Dining",
+    "confidence": 100
+  }
+}

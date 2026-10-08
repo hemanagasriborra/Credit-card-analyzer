@@ -1,0 +1,43 @@
+keyword,merchant_name,category
+swiggy,Swiggy,Food Delivery
+zomato,Zomato,Food Delivery
+amazon,Amazon,Shopping
+amzn,Amazon,Shopping
+flipkart,Flipkart,Shopping
+myntra,Myntra,Shopping
+netflix,Netflix,Subscriptions
+spotify,Spotify,Subscriptions
+hotstar,Disney+ Hotstar,Subscriptions
+prime video,Amazon Prime Video,Subscriptions
+youtube premium,YouTube Premium,Subscriptions
+uber,Uber,Transport
+ola,Ola,Transport
+rapido,Rapido,Transport
+irctc,IRCTC,Transport
+indigo,IndiGo Airlines,Travel
+makemytrip,MakeMyTrip,Travel
+airbnb,Airbnb,Travel
+bigbasket,BigBasket,Groceries
+blinkit,Blinkit,Groceries
+zepto,Zepto,Groceries
+dmart,DMart,Groceries
+starbucks,Starbucks,Dining
+blue bottle,Blue Bottle Coffee,Dining
+mcdonald,McDonald's,Dining
+domino,Domino's Pizza,Dining
+kfc,KFC,Dining
+apple.com,Apple,Subscriptions
+google,Google,Subscriptions
+microsoft,Microsoft,Subscriptions
+adobe,Adobe,Subscriptions
+gym,Gym/Fitness,Health & Fitness
+cult.fit,Cult.fit,Health & Fitness
+pharmeasy,PharmEasy,Health
+practo,Practo,Health
+electricity,Electricity Board,Utilities
+airtel,Airtel,Utilities
+jio,Jio,Utilities
+lic,LIC,Insurance
+paytm,Paytm,Wallet/Transfer
+phonepe,PhonePe,Wallet/Transfer
+gpay,Google Pay,Wallet/Transfer
